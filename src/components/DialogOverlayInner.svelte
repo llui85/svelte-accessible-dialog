@@ -37,6 +37,8 @@
 <TrapScreenReader enabled={ariaModalLegacy}>
   <TrapFocus {initialFocusElement} {returnFocusElement}>
     <LockScroll>
+			<!-- svelte-ignore a11y-no-static-element-interactions -->
+			<!-- svelte-ignore a11y-click-events-have-key-events -->
       <div
         {...$$restProps}
         data-svelte-dialog-overlay

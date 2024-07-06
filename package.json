@@ -1,6 +1,6 @@
 {
   "name": "@llui85/svelte-accessible-dialog",
-  "version": "2.1.3-patch-exports",
+  "version": "2.1.3-patch-exports-3",
   "description": "An accessible dialog component for Svelte apps --- patched to remove svelte export warnings",
   "author": "",
   "svelte": "src/index.js",

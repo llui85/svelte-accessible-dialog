@@ -6,7 +6,7 @@
   "svelte": "src/index.js",
   "exports": {
     ".": {
-      "svelte": "./dist/index.js"
+      "svelte": "src/index.js"
     }
   },
   "module": "dist/index.mjs",
